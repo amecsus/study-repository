@@ -5,5 +5,5 @@ import "fmt"
 
 
 func Feature2() {
-	fmt.Println("I`m FEATURE 2!")
+	fmt.Println("I`m Feature 2!")
 }
